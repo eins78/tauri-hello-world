@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# `tauri-hello-world`
+
+<https://tauri.studio/docs/getting-started/beginning-tutorial>
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
